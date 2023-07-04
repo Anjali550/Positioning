@@ -1,0 +1,36 @@
+.container{
+    border:2px solid red;
+    background-color:pink;
+    height:1000px;
+  }
+  .box{
+    display:inline-block;
+    border:2px solid black;
+    width:150px;
+    height:100px;
+    margin:3px;
+  }
+  #box1{
+    
+   background-color:yellow;
+    
+  }
+  #box2{
+    position:sticky;
+    top:5px;
+    font-weight:600;
+    color:navy;
+   
+    
+   background-color:orange;
+    
+  }
+  #box3{
+   background-color:red;
+    
+    
+    
+  }
+  #box4{
+   background-color:maroon;
+  }
